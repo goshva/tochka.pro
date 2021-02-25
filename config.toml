@@ -14,9 +14,9 @@ enableMissingTranslationPlaceholders = true
 googleAnalytics = "UA-37717223-8"
 
 [params]
-    title = "DevFest Toulouse 2019"
+    title = "Точка.Pro Кисловодск"
     date = "2019-10-03"
-    description = "The DevFest, or 'Developers Festival', is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles."
+    description = "Центр молодежного творчества в Кисловоске - создаем гениев из талантливых людей"
     images = ["/images/social-share.jpg"]
     email = "contact@devfesttoulouse.fr"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
@@ -38,9 +38,9 @@ googleAnalytics = "UA-37717223-8"
 
 [menu]
 [[menu.main]]
-    identifier = "jobs"
-    name = "Jobs"
-    url = "https://jobs.devfesttoulouse.fr/"
+    identifier = "rfrk"
+    name = "РФРК"
+    url = "https://rfrk.ru/"
     weight = 200
     external = true
 

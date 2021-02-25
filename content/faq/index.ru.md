@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: ЧаВо
 menu:
   main:
     weight: 80
