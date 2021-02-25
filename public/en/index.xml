@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Точка.Pro Центр иновационного творчества</title>
+    <link>https://aeroki.ru/en/</link>
+    <description>Recent content in Home on Точка.Pro Центр иновационного творчества</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language><atom:link href="https://aeroki.ru/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAQs</title>
+      <link>https://aeroki.ru/en/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aeroki.ru/en/faq/</guid>
+      <description>General What is DevFest Toulouse? The DevFest, or &amp;ldquo;Developers Festival&amp;rdquo;, is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles. Throughout the day, renowned speakers will present a variety of topics: around mobile development, the web, data, connected objects, the cloud, DevOps, etc&amp;hellip; as well as good development practices. Pauses are used to engage in dialogue and deepen the topics presented.
+Software development is a very broad subject and our selection committee is committed to providing a varied and interesting program.</description>
+    </item>
+    
+    <item>
+      <title>Kids</title>
+      <link>https://aeroki.ru/en/kids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aeroki.ru/en/kids/</guid>
+      <description>If you are interested to know more, use the French version of this website</description>
+    </item>
+    
+  </channel>
+</rss>

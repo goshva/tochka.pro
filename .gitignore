@@ -1,5 +1,5 @@
 /resources/
-public/
+#public/
 node_modules/
 .firebase/
 .idea/
