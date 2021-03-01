@@ -15,10 +15,10 @@ googleAnalytics = "UA-37717223-8"
 
 [params]
     title = "Точка.Pro Кисловодск"
-    date = "2019-10-03"
+    date = "2020-10-03"
     description = "Центр молодежного творчества в Кисловоске - создаем гениев из талантливых людей"
     images = ["/images/social-share.jpg"]
-    email = "contact@devfesttoulouse.fr"
+    email = "sha.egor@gmail.com"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
     copyright = "We :heart:️ chocolatines"
     cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
