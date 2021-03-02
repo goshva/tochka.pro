@@ -156,7 +156,13 @@
       background-position: center center;
       background-size: cover;
     }
-
+    @media (max-width: 558px) { 
+      .map{
+        background-position: -719px 0px;
+        background-size: auto;
+        height: 520px;
+      }
+    }
     .description {
       display: inline-block;
       padding: var(--space-4);
