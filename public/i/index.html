@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+<style>
+  html { font-size: 22px;}
+
+.card {
+  
+  padding: 1rem 0 1rem 1rem;
+  height: auto;
+}
+
+.cards {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+@media (min-width: 900px) {
+  .cards { grid-template-columns: repeat(2, 1fr); }
+}
+body {
+  font-family: 'Roboto',cursive;
+  background-color: rgb(255, 255, 255);
+  padding: 1%;
+}
+
+.coupon {
+  border: 7px solid #5e34b5;
+     
+    border-radius: 16px;
+    margin: 0 auto;
+    box-shadow: #000 2px 3px 0px;
+}
+
+.container {
+  padding: 2px 16px;
+  background-color: #5e34b5;
+  color: #fff;
+}
+.main{
+  background: #fff;
+  color:#000;
+}
+.indicator{
+  background-color: #5e34b5;
+  color:#fff
+}
+.promo {
+  background: rgb(53, 53, 53);
+  padding: 3px;
+}
+
+.expire {
+  color: red;
+}
+.roundbord{
+  background-color: #fff;
+  border: 1px solid;
+  border-radius: 25px 0 0 25px;
+  border-width: 1px 0 1px 1px;
+  width: min-content;
+  float: right;
+  padding: 3px;
+  text-align: right;
+  color: #000;
+}
+.photo{
+  background-image: url(/images/speakers/egor_sha.png);
+  min-height: 420px;
+}
+</style>
+</head>
+<body>
+<div class="cards coupon">
+  <div class="card">
+    <h3>Личный кабинет </h3>
+  </div>
+  <div class="card">
+   
+
+    
+    <h3 class="roundbord">322⭐️</h3></div>
+  <div class="card photo">  
+  </div>
+  <div class="card">
+    <p>
+    Егорка aka 
+    goshva <br>
+    Прогер волонтер и мечтатель 
+    </p>
+    <ul>
+      
+      <li>Родился в 1986</li>
+      
+      <li>Учился с 2010</li>
+      
+      <li>Работал по 2020</li>
+      
+      <li>Пригодился в 2021</li>
+      
+    </ul>
+  </div>
+  <div class="card">3D -моделирование</div>
+  <div class="card points"></div>
+  <div class="card">Программирование</div>
+  <div class="card points"></div>
+  <div class="card">Блогинг</div>
+  <div class="card points"></div>
+  <div class="card">Электроника</div>
+  <div class="card points"></div>
+  <div class="card">Ангилийский</div>
+  <div class="card points"></div>
+  <div class="card" >Медали</div>
+  <div class="card points"></div>
+
+</div>
+<script>
+  skills = ['Egor',0,15,6,9,"🏅🎖🥇🥈🥉 ⚡️⭐️🎗🎯🧩🚀💡🛠⛏⚙️🧹🎁📣🏁🏆"]
+  indicatorlist = document.getElementsByClassName('points')
+  skills.forEach(element => {
+    indicator = document.createElement("div");
+    indicator.class = "indicator"
+    indicator.style.width = element+"%"
+    indicator.style.background = "#5e34b5"
+    indicator.style.color = "#fff"
+    indicator.innerHTML = element+"%"
+    indicator.style.borderRadius ="9px 0 0 9px";
+    indicator.style.padding = "5px";
+    indicator.style.float = "right";
+    let number = skills.indexOf(element)
+    indicatorlist[number].appendChild(indicator);
+  });
+</script>
+</body>
+</html> 
+
