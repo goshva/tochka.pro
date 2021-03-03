@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Дети on Точка.Pro Центр иновационного творчества</title>
+    <link>https://aeroki.ru/kids/</link>
+    <description>Recent content in Дети on Точка.Pro Центр иновационного творчества</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 09 Apr 2020 23:36:31 +0300</lastBuildDate><atom:link href="https://aeroki.ru/kids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Личный кабинет</title>
+      <link>https://aeroki.ru/kids/goshva/</link>
+      <pubDate>Thu, 09 Apr 2020 23:36:31 +0300</pubDate>
+      
+      <guid>https://aeroki.ru/kids/goshva/</guid>
+      <description>о себе в свободной форме</description>
+    </item>
+    
+    <item>
+      <title>Личный кабинет</title>
+      <link>https://aeroki.ru/kids/lui/</link>
+      <pubDate>Thu, 09 Apr 2020 23:36:31 +0300</pubDate>
+      
+      <guid>https://aeroki.ru/kids/lui/</guid>
+      <description>о себе в свободной форме</description>
+    </item>
+    
+    <item>
+      <title>Личный кабинет</title>
+      <link>https://aeroki.ru/kids/semen/</link>
+      <pubDate>Thu, 09 Apr 2020 23:36:31 +0300</pubDate>
+      
+      <guid>https://aeroki.ru/kids/semen/</guid>
+      <description>Семен</description>
+    </item>
+    
+  </channel>
+</rss>

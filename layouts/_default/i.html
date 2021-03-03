@@ -72,25 +72,37 @@ body {
 }
 .photo{
   background-image: url({{ .Page.Params.image}});
+  background-repeat: no-repeat;
   min-height: 420px;
+  border-radius: 16px;
+
+}
+.header{
+  background-color: #5e34b5;
+  color: #fff;
+  border-radius: 0 0 16px 0;
+}
+#medal{
+ font-size: 60px;
 }
 </style>
 </head>
 <body>
 <div class="cards coupon">
-  <div class="card">
+  <div class="card header">
     <h3>Личный кабинет </h3>
   </div>
   <div class="card">
    <!-- <h3>Мои достижения в Точка.PRO</h3>-->
 
     
-    <h3 class="roundbord">322⭐️</h3></div>
+    <h3 class="roundbord"> <soan id="star">322</soan>⭐️</h3></div>
   <div class="card photo">  
   </div>
   <div class="card">
     <p>
-    {{ .Page.Params.name}} aka 
+    {{ .Page.Params.name}} 
+    <small>aka</small> 
     {{ .Page.Params.nick}} <br>
     {{ .Page.Params.about}} 
     </p>
@@ -108,16 +120,41 @@ body {
   <div class="card points"></div>
   <div class="card">Электроника</div>
   <div class="card points"></div>
-  <div class="card">Ангилийский</div>
+  <div class="card">Английский</div>
+  <div class="card points"></div>
+  <div class="card" >Танцы</div>
+  <div class="card points"></div>
+  <div class="card" >Экология</div>
   <div class="card points"></div>
   <div class="card" >Медали</div>
-  <div class="card points"></div>
+  <div class="card points" id="medal"></div>
+
 
 </div>
 <script>
-  skills = ['Egor',0,15,6,9,"🏅🎖🥇🥈🥉 ⚡️⭐️🎗🎯🧩🚀💡🛠⛏⚙️🧹🎁📣🏁🏆"]
+  //skills = ['Egor',0,15,6,9,"🏅🎖🥇🥈🥉 ⚡️⭐️🎗🎯🧩🚀💡🛠⛏⚙️🧹🎁📣🏁🏆"]
+  skills = ["nikname,stars,3d,programing,blog,electro,english,dance,eco", "goshva,34,20,9,0,50,60,12,5,🏆", "semen,8,10,4,3,10,10,0,5", "Lui,6,10,10,0,10,10,10,10"]
+
+
   indicatorlist = document.getElementsByClassName('points')
-  skills.forEach(element => {
+  nick = "{{ .Page.Params.nick}}"
+  myindex = 1
+  /*
+  myskills = skills[myindex].split(',')
+
+  myskills.forEach(element => {
+    console.log(element.split(',')[0] == nick)
+
+    if (element.split(',')[0] == nick){
+
+    myindex = myskills.indexOf(element)}
+  })
+*/
+  document.getElementById('star').innerHTML = myskills[1]
+  medal = myskills[myskills.length-1]
+  myskills.splice(0, 2)
+
+  myskills.forEach(element => {
     indicator = document.createElement("div");
     indicator.class = "indicator"
     indicator.style.width = element+"%"
@@ -127,9 +164,11 @@ body {
     indicator.style.borderRadius ="9px 0 0 9px";
     indicator.style.padding = "5px";
     indicator.style.float = "right";
-    let number = skills.indexOf(element)
+    let number = myskills.indexOf(element)
     indicatorlist[number].appendChild(indicator);
   });
+  document.getElementById('medal').innerHTML = medal
+
 </script>
 </body>
 </html> 

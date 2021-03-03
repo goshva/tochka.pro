@@ -60,6 +60,20 @@
   </url>
   
   <url>
+    <loc>https://aeroki.ru/en/kids/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aeroki.ru/fr/kids/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aeroki.ru/en/kids/"
+                />
+  </url>
+  
+  <url>
     <loc>https://aeroki.ru/en/partners/</loc>
     <xhtml:link
                 rel="alternate"

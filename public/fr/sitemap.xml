@@ -135,6 +135,20 @@
   </url>
   
   <url>
+    <loc>https://aeroki.ru/fr/kids/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aeroki.ru/en/kids/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aeroki.ru/fr/kids/"
+                />
+  </url>
+  
+  <url>
     <loc>https://aeroki.ru/fr/schedule/</loc>
     <xhtml:link
                 rel="alternate"
