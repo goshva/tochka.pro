@@ -9,7 +9,7 @@ draft: false
 
 #aliases: ["/gift/","/gift.html"]
 name: "Семен"
-nick: "goshva"
+nick: "semen"
 about: "Прогер волонтер и мечтатель"
 dates: ["Родился в 1986","Учился с 2010","Работал по 2020","Пригодился в 2021"]
 

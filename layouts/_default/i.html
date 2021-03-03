@@ -37,12 +37,6 @@ body {
     margin: 0 auto;
     box-shadow: #000 2px 3px 0px;
 }
-
-.container {
-  padding: 2px 16px;
-  background-color: #5e34b5;
-  color: #fff;
-}
 .main{
   background: #fff;
   color:#000;
@@ -53,22 +47,12 @@ body {
   -moz-transition: width 1s ease-in-out;
   -o-transition: width 1s ease-in-out;
   transition: width 1s ease-in-out, opacity 1s linear;
-
-
   background: rgb(94, 52, 181);
-    color: #fff;
-    border-radius: 9px 0px 0px 9px;
-    padding: 5px;
-    float: right;
-    opacity: 0.0;
-}
-.promo {
-  background: rgb(53, 53, 53);
-  padding: 3px;
-}
-
-.expire {
-  color: red;
+  color: #fff;
+  border-radius: 9px 0px 0px 9px;
+  padding: 5px;
+  float: right;
+  opacity: 0.0;
 }
 .roundbord{
   background-color: #fff;
@@ -100,97 +84,91 @@ body {
 </style>
 </head>
 <body>
-<div class="cards coupon">
-  <div class="card header">
-    <h3>Личный кабинет </h3>
-  </div>
-  <div class="card">
-   <!-- <h3>Мои достижения в Точка.PRO</h3>-->
-
-    
-    <h3 class="roundbord"> <soan id="star"></soan>⭐️</h3></div>
-  <div class="card photo">  
-  </div>
-  <div class="card">
-    <p>
-    {{ .Page.Params.name}} 
-    <small>aka</small> 
-    {{ .Page.Params.nick}} <br>
-    {{ .Page.Params.about}} 
-    </p>
-    <ul>
-      {{ range .Page.Params.dates }}
-      <li>{{ . }}</li>
-      {{ end }}
-    </ul>
-  </div>
-  <div class="card">3D -моделирование</div>
-  <div class="card points"><div class="indicator">0%</div></div>
-  <div class="card">Программирование</div>
-  <div class="card points"><div class="indicator">0%</div></div>
-  <div class="card">Блогинг</div>
-  <div class="card points"><div class="indicator">0%</div></div>
-  <div class="card">Электроника</div>
-  <div class="card points"><div class="indicator">0%</div></div>
-  <div class="card">Английский</div>
-  <div class="card points"><div class="indicator">0%</div></div>
-  <div class="card" >Танцы</div>
-  <div class="card points"><div class="indicator">0%</div></div>
-  <div class="card" >Экология</div>
-  <div class="card points"><div class="indicator">0%</div></div>
-  <div class="card" >Медали</div>
-  <div class="card points" id="medal"><div class="indicator">0%</div></div>
-
-
-</div>
+  <div class="cards coupon">
+    <div class="card header">
+       <h3>Личный кабинет </h3>
+    </div>
+    <div class="card">
+       <!-- <h3>Мои достижения в Точка.PRO</h3>-->
+       <h3 class="roundbord">
+          <span id="star"></span>⭐️
+       </h3>
+    </div>
+    <div class="card photo">  
+    </div>
+    <div class="card">
+       <p>
+          {{ .Page.Params.name}} 
+          <small>aka</small> 
+          {{ .Page.Params.nick}} <br>
+          {{ .Page.Params.about}} 
+       </p>
+       <ul>
+          {{ range .Page.Params.dates }}
+          <li>{{ . }}</li>
+          {{ end }}
+       </ul>
+    </div>
+    <div class="card">3D -моделирование</div>
+    <div class="card points">
+       <div class="indicator">0%</div>
+    </div>
+    <div class="card">Программирование</div>
+    <div class="card points">
+       <div class="indicator">0%</div>
+    </div>
+    <div class="card">Блогинг</div>
+    <div class="card points">
+       <div class="indicator">0%</div>
+    </div>
+    <div class="card">Электроника</div>
+    <div class="card points">
+       <div class="indicator">0%</div>
+    </div>
+    <div class="card">Английский</div>
+    <div class="card points">
+       <div class="indicator">0%</div>
+    </div>
+    <div class="card" >Танцы</div>
+    <div class="card points">
+       <div class="indicator">0%</div>
+    </div>
+    <div class="card" >Экология</div>
+    <div class="card points">
+       <div class="indicator">0%</div>
+    </div>
+    <div class="card" >Медали</div>
+    <div class="card points" id="medal">
+       <div class="indicator">0%</div>
+    </div>
+ </div>
 <script>
   //['Egor',0,15,6,9,"🏅🎖🥇🥈🥉 ⚡️⭐️🎗🎯🧩🚀💡🛠⛏⚙️🧹🎁📣🏁🏆"]
 function draw(){
   indicatorlist = document.getElementsByClassName('points')
   var nick = "{{ .Page.Params.nick}}"
-  var myindex =""
+  var myindex
   var myskills =[]
-  /*
-  myskills = skills[myindex].split(',')
 
-  myskills.forEach(element => {
-    console.log(element.split(',')[0] == nick)
-
-    if (element.split(',')[0] == nick){
-
-    myindex = myskills.indexOf(element)}
-  })
-*/
-//
 
 skills.forEach(function (string,i) {
   arr = string.split(',')
   if  (arr[0] == nick){
     myindex = i
     myskills = arr.splice(2,(arr.length-1))
+    console.log(myskills)
     document.getElementById('star').innerHTML = arr[1]
   }
 })
   medal = myskills[myskills.length-1]
-  myskills.forEach(element => {
-  /*
-    indicator = document.createElement("div");
-    indicator.className  = "indicator"
-    indicator.style.width = element+"%"
-    indicator.style.background = "#5e34b5"
-    indicator.style.color = "#fff"
-    indicator.innerHTML = element+"%"
-    indicator.style.borderRadius ="9px 0 0 9px";
-    indicator.style.padding = "5px";
-    indicator.style.float = "right";
+  myskills.forEach(function(element,n) {
+
     let number = myskills.indexOf(element)
-    indicatorlist[number].appendChild(indicator);
-  */
-    let number = myskills.indexOf(element)
-    indicatorlist[number].firstElementChild.style.width = element+"%"
-    indicatorlist[number].firstElementChild.style.opacity = 1
-    indicatorlist[number].firstElementChild.innerHTML = element+"%"
-    
+    console.log(element+"%")
+    indicatorlist[n].firstElementChild.style.width = element+"%"
+    indicatorlist[n].firstElementChild.innerHTML = element+"%"
+    indicatorlist[n].firstElementChild.style.opacity = 1
+
 
   });
   document.getElementById('medal').innerHTML = medal
@@ -202,6 +180,7 @@ skills.forEach(function (string,i) {
   })
   .then((data) => {
     skills = data.split(/\r?\n/)
+    console.log(skills)
     draw();
   });
 </script>
