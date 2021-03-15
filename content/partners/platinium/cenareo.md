@@ -1,10 +1,10 @@
 ---
-key: cenareo
-title: Cenareo
+key: grad-masterov  
+title: Град мастеров
 category: platinium
 order: 7
-logo: /images/partners/logo-cenareo.png
-website: 'https://cenareo.com/fr/'
+logo: /images/partners/logo-grad.png
+website: 'https://grad-masterov.ru'
 lang: fr
 why: >-
   Dev Fest is the best place to meet future “tech heroes” that share our values

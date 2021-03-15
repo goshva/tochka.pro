@@ -54,15 +54,6 @@ Pour l’ensemble de ses secteurs d’activité, Berger-Levrault a développé u
     </item>
     
     <item>
-      <title>Cenareo</title>
-      <link>https://aeroki.ru/partners/platinium/cenareo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aeroki.ru/partners/platinium/cenareo/</guid>
-      <description>Cenareo, previously CityMeo, is a real “French Tech” success story. Located in Labège within the IoT Valley, we develop a best-in-class digital signage CMS (SaaS mode) to create, manage and broadcast content on remote displays in real-time, from any PC, tablet or smartphone. Created by 4 engineers, Cenareo has experienced exponential growth and rapid development since its inception in 2012, posting triple-digit growth and now counting upwards of 30 employees. The company has ambitious targets and a Global outlook.</description>
-    </item>
-    
-    <item>
       <title>Cirruseo part of Accenture</title>
       <link>https://aeroki.ru/partners/gold/cirruseo_part_of_accenture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -428,6 +419,15 @@ Our seasoned team is experienced in new generation technologies as cloud, micros
       
       <guid>https://aeroki.ru/partners/platinium/govkis/</guid>
       <description>Администрация Кисловоска</description>
+    </item>
+    
+    <item>
+      <title>Град мастеров</title>
+      <link>https://aeroki.ru/partners/platinium/cenareo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aeroki.ru/partners/platinium/cenareo/</guid>
+      <description>Cenareo, previously CityMeo, is a real “French Tech” success story. Located in Labège within the IoT Valley, we develop a best-in-class digital signage CMS (SaaS mode) to create, manage and broadcast content on remote displays in real-time, from any PC, tablet or smartphone. Created by 4 engineers, Cenareo has experienced exponential growth and rapid development since its inception in 2012, posting triple-digit growth and now counting upwards of 30 employees. The company has ambitious targets and a Global outlook.</description>
     </item>
     
   </channel>
