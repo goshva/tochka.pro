@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://aeroki.ru/kids/</loc>
     <lastmod>2020-04-09T23:36:31+03:00</lastmod>
@@ -20,44 +19,28 @@
                 hreflang="ru"
                 href="https://aeroki.ru/kids/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/i/</loc>
     <lastmod>2020-04-09T23:36:31+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://aeroki.ru/kids/bapbapa/</loc>
+    <lastmod>2020-04-09T23:36:31+03:00</lastmod>
+  </url><url>
     <loc>https://aeroki.ru/kids/gelay/</loc>
     <lastmod>2020-04-09T23:36:31+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aeroki.ru/kids/goshva/</loc>
-    <lastmod>2020-04-09T23:36:31+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/kids/lui/</loc>
     <lastmod>2020-04-09T23:36:31+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/kids/semen/</loc>
     <lastmod>2020-04-09T23:36:31+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/kids/sofa/</loc>
     <lastmod>2020-04-09T23:36:31+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/kids/timofei/</loc>
     <lastmod>2020-04-09T23:36:31+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/</loc>
     <lastmod>2020-04-09T23:36:31+03:00</lastmod>
     <xhtml:link
@@ -75,9 +58,7 @@
                 hreflang="ru"
                 href="https://aeroki.ru/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/blog/cfp/</loc>
     <lastmod>2019-03-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -90,9 +71,7 @@
                 hreflang="ru"
                 href="https://aeroki.ru/blog/cfp/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/blog/</loc>
     <lastmod>2019-03-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -105,9 +84,7 @@
                 hreflang="ru"
                 href="https://aeroki.ru/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/blog/get-ready-for-2019/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -120,9 +97,7 @@
                 hreflang="ru"
                 href="https://aeroki.ru/blog/get-ready-for-2019/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/blog/find-out-when-is-edition-2019-contest/</loc>
     <lastmod>2019-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -135,301 +110,153 @@
                 hreflang="ru"
                 href="https://aeroki.ru/blog/find-out-when-is-edition-2019-contest/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/adrien_anceau/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/aleksey_kladov/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/alessio_coltellacci/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/andrew_radev/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/cedric_moulard/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/christian_faure/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/christophe_jollivet/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/clement_duffau/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/corentin_wallez/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/cyril_delmas/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/egor_sha/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/erik_rasmussen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/fabien_tregan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/francois_guillaume_ribreau/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/francois_teychene/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/fs0c131y/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/gautier_mechling/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/gilles_debunne/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/guillaume_andrieu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/guillaume_smet/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/horacio_gonzalez__lostinbrittany_/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/jeremy_voisin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/juliane_blier/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/liliia_abdulina/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/loic_ortola/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/lois_blanc/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/luiza_nig/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/marie_viley/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/mathieu_passenaud/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/max/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/melanie_ducoffe/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/nicolas_decoster/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/nikita_mad/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/noel_mace/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/olivier_leplus/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/piotr_przybyl/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/qj7nbl6wiyug1rhqtxf818a46po1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/richard_fagot/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/saskia_blanc/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/sebastien_blanc/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/sebastien_brault/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/sha_egor/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/steve_klabnik/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/sylvain_wallez/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/theophile_wallez/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/tiffany_souterre/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/valeriane_venance/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/vincent_ogloblinsky/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/_numerique_et_environnement__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/tags/_big_data___ml___ai/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/tags/_cloud___infra/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/tags/_iot/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/tags/_languages/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/tags/_method___tools/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/tags/_native_mobile_apps/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/tags/_web/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/tags/_wtf/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/a_kotlin_multiplatform_evolution/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/a_la_decouverte_de_la_realite_augmentee_avec_arcore/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/__open/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/volunteers/alexia_audevart/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/allo_paris__ici_san_francisco__et_si_on_codait_ensemble_avec_vs_code_/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/soutien/altran/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/applications_de_brainfuck__langage_minimaliste_mais_turing_complet/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/apside/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/core/aurelie_vache/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/authentication_authorization_starters_battle/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/axileo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/berger_levrault/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/brace_yourself__vanilla_is_coming__back__/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/platinium/capgemini/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/cirruseo_part_of_accenture/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/soutien/cnes/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/code-of-conduct/</loc>
     <xhtml:link
                 rel="alternate"
@@ -441,341 +268,173 @@
                 hreflang="ru"
                 href="https://aeroki.ru/code-of-conduct/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/soutien/commit42/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/comprendre_le_role_du_noyau_d_un_systeme_d_exploitation_en_creant_un_from_scratch/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/continental/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/soutien/decasoft/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/devops_at_scale/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/volunteers/didier_plaindoux/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/communautes/duchess-fr/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/__lunch/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/developpeurs_en_reconversion__developpeurs_quand_meme__/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/elastic/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/core/elodie_lerare/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/core/emmanuel_vinas/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/soutien/epitech/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/four_diseases/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/communautes/gdg-toulouse/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/github/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/soutien/google/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/groupe_pierre_fabre/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/core/hadrien_thomas/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/core/igor_laborie/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/informatique_banque_populaire/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/infotel/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/introduction_a_la_programmation_par_contraintes/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/startup/intuiface/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/ippon/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/cfp/euzebe/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/jfrog/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/core/julien_del_rio/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/core/julien_renaux/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/core/kevin_davin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/tags/keynote/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/keynote_open_overflow/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/keynote_close_overflow/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/le_burn_out_agile/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/le_design_de_l_erreur/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/le_jaillissement_de_l_esprit/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/le_troll_dans_ta_machine_____une_courte_introduction_a_la_pensee_de_jean_yves_girard/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/soutien/liberty_rider/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/volunteers/lionel_porcheron/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/live_coding_musical___vous_savez_coder___devenez_compositeur_avec_webaudio_et_webmidi__/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/tags/lunch/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/lyra_network/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/machine_learning_avec_des_allumettes_et_des_cotillons/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/core/maxime_pawlak/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/core/michael_pailloncy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/modern_forms_in_react/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/mon_p____de_voyant_moteur_est_encore_allume___comment_debugger_mon_moteur___plongeon_dans_les_entrailles_des_calculateurs_moteur/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/monitoring_ovh__300k_serveurs__27_dcs_une_plateforme_de_metriques/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/monkeypatch/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/soutien/morning/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/neo_soft_groupe/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/office-hour-00/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/office-hour-01/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/office-hour-02/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/office-hour-03/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/office-hour-04/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/office-hour-05/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/office-hour-06/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/office-hour-11/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/office-hour-12/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/tags/office-hours/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/startup/onestock/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/tags/open/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/startup/openairlines/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/tags/party/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/__party/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/__pause/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/tags/pause/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/media/programmez/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/communautes/python-toulouse/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/quand_les_rates_des_ias_nous_renvoient_a_nos_propres_biais_societaux/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/rockin_in_the_angular_world/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/rust_as_a_high_level_langage/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/communautes/rust-toulouse/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/core/serge_boucher/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/platinium/sii/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/cfp/simon_chemouil/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/smile/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/soutien/squoring_technologies/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/platinium/stack_labs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/gold/sycomore-technologie/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -792,77 +451,41 @@
                 hreflang="ru"
                 href="https://aeroki.ru/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/the_freedom_of_static_typing/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/cfp/thibault_ducret/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/communautes/toulouse-data-science/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/communautes/toulouse-devops/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/communautes/toulouse-jug/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/platinium/toulouse_metropole/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/communautes/toulousejs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/un_distributeur_automatique_d_argent_de_poche_pour_les_enfants/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/keynote_close/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/keynote_open/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/core/vincent_ferries/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/webgpu__next_generation_3d_graphics_on_the_web/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/soutien/welovedevs_com/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/_47_ans___ils_nont_toujours_pas_remarque__/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/soutien/etincelle_coworking/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/platinium/govkis/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/platinium/cenareo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -879,9 +502,7 @@
                 hreflang="ru"
                 href="https://aeroki.ru/sessions/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/team/</loc>
     <xhtml:link
                 rel="alternate"
@@ -898,9 +519,7 @@
                 hreflang="ru"
                 href="https://aeroki.ru/team/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/speakers/</loc>
     <xhtml:link
                 rel="alternate"
@@ -917,9 +536,7 @@
                 hreflang="ru"
                 href="https://aeroki.ru/speakers/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/partners/</loc>
     <xhtml:link
                 rel="alternate"
@@ -936,9 +553,7 @@
                 hreflang="ru"
                 href="https://aeroki.ru/partners/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/schedule/</loc>
     <xhtml:link
                 rel="alternate"
@@ -955,9 +570,7 @@
                 hreflang="ru"
                 href="https://aeroki.ru/schedule/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -974,14 +587,9 @@
                 hreflang="ru"
                 href="https://aeroki.ru/faq/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/goit/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/sessions/_votre_api_web_passe_t_elle_le_controle_technique__/</loc>
   </url>
-  
 </urlset>

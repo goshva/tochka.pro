@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://aeroki.ru/fr/</loc>
     <lastmod>2019-03-23T00:00:00+00:00</lastmod>
@@ -20,9 +19,7 @@
                 hreflang="fr"
                 href="https://aeroki.ru/fr/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/fr/blog/cfp/</loc>
     <lastmod>2019-03-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -35,9 +32,7 @@
                 hreflang="fr"
                 href="https://aeroki.ru/fr/blog/cfp/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/fr/blog/</loc>
     <lastmod>2019-03-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -50,9 +45,7 @@
                 hreflang="fr"
                 href="https://aeroki.ru/fr/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/fr/blog/get-ready-for-2019/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -65,9 +58,7 @@
                 hreflang="fr"
                 href="https://aeroki.ru/fr/blog/get-ready-for-2019/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/fr/blog/find-out-when-is-edition-2019-contest/</loc>
     <lastmod>2019-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -80,9 +71,7 @@
                 hreflang="fr"
                 href="https://aeroki.ru/fr/blog/find-out-when-is-edition-2019-contest/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/fr/code-of-conduct/</loc>
     <xhtml:link
                 rel="alternate"
@@ -94,9 +83,7 @@
                 hreflang="fr"
                 href="https://aeroki.ru/fr/code-of-conduct/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/fr/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -113,9 +100,7 @@
                 hreflang="fr"
                 href="https://aeroki.ru/fr/faq/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/fr/kids/</loc>
     <xhtml:link
                 rel="alternate"
@@ -132,9 +117,7 @@
                 hreflang="fr"
                 href="https://aeroki.ru/fr/kids/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/fr/kids/</loc>
     <xhtml:link
                 rel="alternate"
@@ -146,9 +129,7 @@
                 hreflang="fr"
                 href="https://aeroki.ru/fr/kids/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/fr/schedule/</loc>
     <xhtml:link
                 rel="alternate"
@@ -165,9 +146,7 @@
                 hreflang="fr"
                 href="https://aeroki.ru/fr/schedule/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/fr/speakers/</loc>
     <xhtml:link
                 rel="alternate"
@@ -184,9 +163,7 @@
                 hreflang="fr"
                 href="https://aeroki.ru/fr/speakers/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/fr/sessions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -203,9 +180,7 @@
                 hreflang="fr"
                 href="https://aeroki.ru/fr/sessions/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/fr/partners/</loc>
     <xhtml:link
                 rel="alternate"
@@ -222,9 +197,7 @@
                 hreflang="fr"
                 href="https://aeroki.ru/fr/partners/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -241,9 +214,7 @@
                 hreflang="fr"
                 href="https://aeroki.ru/fr/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/fr/team/</loc>
     <xhtml:link
                 rel="alternate"
@@ -261,5 +232,4 @@
                 href="https://aeroki.ru/fr/team/"
                 />
   </url>
-  
 </urlset>

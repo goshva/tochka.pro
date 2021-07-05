@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://aeroki.ru/en/faq/</loc>
     <xhtml:link
@@ -19,9 +18,7 @@
                 hreflang="en"
                 href="https://aeroki.ru/en/faq/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -38,9 +35,7 @@
                 hreflang="en"
                 href="https://aeroki.ru/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/en/kids/</loc>
     <xhtml:link
                 rel="alternate"
@@ -57,9 +52,7 @@
                 hreflang="en"
                 href="https://aeroki.ru/en/kids/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/en/kids/</loc>
     <xhtml:link
                 rel="alternate"
@@ -71,9 +64,7 @@
                 hreflang="en"
                 href="https://aeroki.ru/en/kids/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/en/partners/</loc>
     <xhtml:link
                 rel="alternate"
@@ -90,9 +81,7 @@
                 hreflang="en"
                 href="https://aeroki.ru/en/partners/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/en/schedule/</loc>
     <xhtml:link
                 rel="alternate"
@@ -109,9 +98,7 @@
                 hreflang="en"
                 href="https://aeroki.ru/en/schedule/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/en/sessions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -128,9 +115,7 @@
                 hreflang="en"
                 href="https://aeroki.ru/en/sessions/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/en/speakers/</loc>
     <xhtml:link
                 rel="alternate"
@@ -147,9 +132,7 @@
                 hreflang="en"
                 href="https://aeroki.ru/en/speakers/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -166,9 +149,7 @@
                 hreflang="en"
                 href="https://aeroki.ru/en/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aeroki.ru/en/team/</loc>
     <xhtml:link
                 rel="alternate"
@@ -186,5 +167,4 @@
                 href="https://aeroki.ru/en/team/"
                 />
   </url>
-  
 </urlset>
