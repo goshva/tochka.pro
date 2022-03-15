@@ -6,7 +6,7 @@ title = "Точка.Pro Центр иновационного творчеств
 theme = "devfest-theme-hugo"
 
 # Params
-
+ignoreErrors = ["error-remote-getjson"]
 enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
