@@ -232,7 +232,7 @@ Quelques samples bien choisis, une pincée de séquences harmonieuses, une bonne
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aeroki.ru/sessions/machine_learning_avec_des_allumettes_et_des_cotillons/</guid>
-      <description>Dans ce talk je vous montrerai comment expliquer simplement le fonctionnement de l&amp;rsquo;apprentissage par renforcement. Pour cela pas besoin d&amp;rsquo;ordinateur : quelques allumettes, des sacs de cotillons et un peu de pédagogie sont suffisants pour mettre en évidence les mécanismes intrinsèques de cette technique et pour aborder les enjeux et les limites des algorithmes d&#39;&amp;ldquo;intelligence artificielle&amp;rdquo; basés sur l&amp;rsquo;apprentissage.</description>
+      <description>Dans ce talk je vous montrerai comment expliquer simplement le fonctionnement de l&amp;rsquo;apprentissage par renforcement. Pour cela pas besoin d&amp;rsquo;ordinateur : quelques allumettes, des sacs de cotillons et un peu de pédagogie sont suffisants pour mettre en évidence les mécanismes intrinsèques de cette technique et pour aborder les enjeux et les limites des algorithmes d&amp;rsquo;&amp;ldquo;intelligence artificielle&amp;rdquo; basés sur l&amp;rsquo;apprentissage.</description>
     </item>
     
     <item>
@@ -429,7 +429,7 @@ This isn&amp;rsquo;t entirely false. Yes, it can be quite hard to write a Rust o
       
       <guid>https://aeroki.ru/sessions/un_distributeur_automatique_d_argent_de_poche_pour_les_enfants/</guid>
       <description>Avec mon épouse nous avons commencé à donner de l&amp;rsquo;argent de poche à nos enfants.
-Pour qu&amp;rsquo;ils puissent faire comme les grands (et parce que c&amp;rsquo;est fun aussi :D) j&amp;rsquo;ai conçu un DAAP (Distributeur Automatique d&#39;Argent de Poche) qui leur permet, le jour de la distribution de l&amp;rsquo;argent de poche, d&amp;rsquo;insérer leur &amp;ldquo;carte bleue&amp;rdquo;, saisir leur code et de voir la machine s&amp;rsquo;ébranler pour distribuer les pièces.
+Pour qu&amp;rsquo;ils puissent faire comme les grands (et parce que c&amp;rsquo;est fun aussi :D) j&amp;rsquo;ai conçu un DAAP (Distributeur Automatique d&amp;rsquo;Argent de Poche) qui leur permet, le jour de la distribution de l&amp;rsquo;argent de poche, d&amp;rsquo;insérer leur &amp;ldquo;carte bleue&amp;rdquo;, saisir leur code et de voir la machine s&amp;rsquo;ébranler pour distribuer les pièces.
 Dans ce talk on parlera d&amp;rsquo;Arduino, d&amp;rsquo;impression 3D, de cartes à puce, d&amp;rsquo;électronique et des problèmes que j&amp;rsquo;ai rencontrés et comment j&amp;rsquo;ai pu les résoudre.</description>
     </item>
     
