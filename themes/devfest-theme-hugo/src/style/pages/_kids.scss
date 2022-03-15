@@ -32,7 +32,12 @@ main > .kids {
       }
     }
   }
-
+  h1 > span, h1 > small {
+    background: #593a9f;
+    /* color: #000; */
+    border-radius: 0.2em 0px 0.2em 0px;
+    padding: 0.1em;
+  }
   .img-container {
     display: flex;
     flex-direction: row;
