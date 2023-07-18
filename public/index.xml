@@ -107,9 +107,10 @@ As last year, the event will be right in the city center, in the Compans Cafarel
       
       <guid>https://aeroki.ru/blog/find-out-when-is-edition-2019-contest/</guid>
       <description>Today we released the following tweet:
-We created this contest to engage our community and it did not take long (around 20 minutes) until we got a winner 😱!
-If you got stuck, here is the solution:
-Solution  Download the file Recognize that it is a JWT otken and decode it with http://jwt.io for example Extract the data field, whch is in base64, and decode it with an online tool or base64 -d .</description>
+📅 L&amp;#39;édition du DevFest Toulouse 2019 est en cours de préparation. Sois le premier à découvrir la date ! https://t.co/Yo5bR1VNAv?
+La première personne à trouver gagnera une surprise ! 🎁#DevFestToulouse pic.twitter.com/1EGfaJ80DE
+&amp;mdash; DevFest Toulouse (@DevFestToulouse) January 21, 2019  We created this contest to engage our community and it did not take long (around 20 minutes) until we got a winner 😱!
+Bravo à toutes les personnes qui ont décodées la date de la prochaine édition du #DevFestToulouse.</description>
     </item>
     
     <item>
