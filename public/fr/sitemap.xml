@@ -84,6 +84,23 @@
                 href="https://aeroki.ru/fr/code-of-conduct/"
                 />
   </url><url>
+    <loc>https://aeroki.ru/fr/team/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://aeroki.ru/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aeroki.ru/en/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aeroki.ru/fr/team/"
+                />
+  </url><url>
     <loc>https://aeroki.ru/fr/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -130,23 +147,6 @@
                 href="https://aeroki.ru/fr/kids/"
                 />
   </url><url>
-    <loc>https://aeroki.ru/fr/schedule/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://aeroki.ru/schedule/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aeroki.ru/en/schedule/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aeroki.ru/fr/schedule/"
-                />
-  </url><url>
     <loc>https://aeroki.ru/fr/speakers/</loc>
     <xhtml:link
                 rel="alternate"
@@ -181,6 +181,23 @@
                 href="https://aeroki.ru/fr/sessions/"
                 />
   </url><url>
+    <loc>https://aeroki.ru/fr/schedule/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://aeroki.ru/schedule/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aeroki.ru/en/schedule/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aeroki.ru/fr/schedule/"
+                />
+  </url><url>
     <loc>https://aeroki.ru/fr/partners/</loc>
     <xhtml:link
                 rel="alternate"
@@ -213,23 +230,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://aeroki.ru/fr/tags/"
-                />
-  </url><url>
-    <loc>https://aeroki.ru/fr/team/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://aeroki.ru/team/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aeroki.ru/en/team/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aeroki.ru/fr/team/"
                 />
   </url>
 </urlset>

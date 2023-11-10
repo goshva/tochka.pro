@@ -18,6 +18,27 @@ Le streaming illimité à 10 euros par mois c&amp;rsquo;est le pied mais aujourd
     </item>
     
     <item>
+      <title>« 47 ans : ils n’ont toujours pas remarqué … »</title>
+      <link>https://aeroki.ru/sessions/_47_ans___ils_nont_toujours_pas_remarque__/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aeroki.ru/sessions/_47_ans___ils_nont_toujours_pas_remarque__/</guid>
+      <description>L’âgisme dans les fonctions IT, et en particulier dans le Développement Soft, est incontournable.
+Les « vieux » n’ont décidément pas la cote, le marché de l&amp;rsquo;emploi des softeux cinquantenaires en est la preuve ! Pourtant, codage et sénioritude semblent loin d&amp;rsquo;être incompatibles.
+Alors quels préjugés peuvent en être la cause ? L’avance rapide de la technologie numérique est-elle incompatible avec le ralentissement biologique ? Les cheveux gris sont-ils un Handicap pour la Sécurité de l’Info ?</description>
+    </item>
+    
+    <item>
+      <title>⛳️ Votre API web passe-t-elle le contrôle technique ? </title>
+      <link>https://aeroki.ru/sessions/_votre_api_web_passe_t_elle_le_controle_technique__/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aeroki.ru/sessions/_votre_api_web_passe_t_elle_le_controle_technique__/</guid>
+      <description>Nous savons tous développer une API mais avons-nous tous bien intégré les problématiques d&amp;rsquo;environnements et de cycles logiciels multiples ? L&amp;rsquo;opérabilité, la gouvernance, le versioning, la traçabilité, la sécurité — et bien plus encore — de ces API web une fois en production ?
+Durant ce talk, c&amp;rsquo;est plusieurs dizaines de points d&amp;rsquo;attention rarement évoqués que je vous propose d&amp;rsquo;aborder, à la lumière de retours d&amp;rsquo;expériences provenant de chez Uber, Stripe, Facebook, &amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>A Kotlin multiplatform evolution</title>
       <link>https://aeroki.ru/sessions/a_kotlin_multiplatform_evolution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -93,17 +114,7 @@ Durant ce temps, loin de ces vicissitudes, la petite saveur basique vanille fait
       <guid>https://aeroki.ru/sessions/comprendre_le_role_du_noyau_d_un_systeme_d_exploitation_en_creant_un_from_scratch/</guid>
       <description>Programmer le noyau d&amp;rsquo;un système d&amp;rsquo;exploitation est un très bon moyen pour en comprendre le fonctionnement et le scope de son travail (IO, gestion de la mémoire, etc). Cette présentation a pour but de présenter et de développer les composants élémentaires d&amp;rsquo;un micro noyau UNIX.
 Dans ce talk je présenterai:
- L&amp;rsquo;émulateur QEMU La réalisation d&amp;rsquo;un secteur de boot avec une micro console Comment gérer les interruptions hardware (clavier) et software La gestion des appels systèmes Un système multi-process simple qui va permettre de découvrir le surcoût des changements de contexte liés à la programmation concurrentielle  </description>
-    </item>
-    
-    <item>
-      <title>DevOps at scale</title>
-      <link>https://aeroki.ru/sessions/devops_at_scale/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aeroki.ru/sessions/devops_at_scale/</guid>
-      <description>DevOps is everywhere, and every new or existing project is at least considering to follow its principles. While implementing DevOps for single projects become more and more straightforward, it&amp;rsquo;s still a challenge to have a coherent DevOps approach at Enterprise level.
-Let&amp;rsquo;s dig in what it takes to achieve DevOps in large companies, with Airbus as an example.</description>
+L&amp;rsquo;émulateur QEMU La réalisation d&amp;rsquo;un secteur de boot avec une micro console Comment gérer les interruptions hardware (clavier) et software La gestion des appels systèmes Un système multi-process simple qui va permettre de découvrir le surcoût des changements de contexte liés à la programmation concurrentielle </description>
     </item>
     
     <item>
@@ -123,6 +134,16 @@ Let&amp;rsquo;s dig in what it takes to achieve DevOps in large companies, with 
       <guid>https://aeroki.ru/sessions/developpeurs_en_reconversion__developpeurs_quand_meme__/</guid>
       <description>Ces dernières années, les &amp;ldquo;fabriques de dev&amp;rdquo; et autres formations courtes explosent. C&amp;rsquo;est un fait, tout dev a été ou sera amené à travailler avec l&amp;rsquo;un de ces jeunes développeurs.euses. Mais qui sont-ils ? Pourquoi une reconversion dans ce genre d&amp;rsquo;organisation ? Qu&amp;rsquo;ont-ils appris lors de leur formation express ? C&amp;rsquo;est fiable ce genre de dev ? Comment puis-je les intégrer au mieux dans ma structure ?
 Autant de questions que vous vous êtes sans doute déjà posées.</description>
+    </item>
+    
+    <item>
+      <title>DevOps at scale</title>
+      <link>https://aeroki.ru/sessions/devops_at_scale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aeroki.ru/sessions/devops_at_scale/</guid>
+      <description>DevOps is everywhere, and every new or existing project is at least considering to follow its principles. While implementing DevOps for single projects become more and more straightforward, it&amp;rsquo;s still a challenge to have a coherent DevOps approach at Enterprise level.
+Let&amp;rsquo;s dig in what it takes to achieve DevOps in large companies, with Airbus as an example.</description>
     </item>
     
     <item>
@@ -171,7 +192,7 @@ Quand on souhaite les traiter automatiquement, tous ces problèmes peuvent être
       <guid>https://aeroki.ru/sessions/l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus/</guid>
       <description>Résumé En Novembre 2017, j&amp;rsquo;ai découvert &amp;ldquo;une backdoor&amp;rdquo; dans tous les téléphones de la marque OnePlus. À l&amp;rsquo;aide d&amp;rsquo;une simple ligne de commande, un attaquant ayant un accès physique au téléphone, pouvait devenir root et ainsi obtenir un contrôle total du téléphone de la victime.
 Détails Dans ce talk, j&amp;rsquo;expliquerai le processus qui m&amp;rsquo;a permis de faire cette découverte :
- Extraction du build Récupération des applications dites &amp;ldquo;système&amp;rdquo; Détection de la vulnérabilité dans l&amp;rsquo;application Android &amp;ldquo;EngineeringMode&amp;rdquo; Exploitation de la vulnérabilité  Sujet abordés Lors de la détection et l&amp;rsquo;analyse de cette faille, nous aborderons la philosophie du hacking, comment faire du reverse engineering sur des applications Android et une librairie native.</description>
+Extraction du build Récupération des applications dites &amp;ldquo;système&amp;rdquo; Détection de la vulnérabilité dans l&amp;rsquo;application Android &amp;ldquo;EngineeringMode&amp;rdquo; Exploitation de la vulnérabilité Sujet abordés Lors de la détection et l&amp;rsquo;analyse de cette faille, nous aborderons la philosophie du hacking, comment faire du reverse engineering sur des applications Android et une librairie native.</description>
     </item>
     
     <item>
@@ -212,7 +233,7 @@ Mais avec les architectures microservices, la distribution des traitements ou un
       <guid>https://aeroki.ru/sessions/le_troll_dans_ta_machine_____une_courte_introduction_a_la_pensee_de_jean_yves_girard/</guid>
       <description>Jean-Yves Girard, le génial inventeur des indispensables montres à moutarde (1990), est certes un joyeux trublion.
 Mais avant d&amp;rsquo;en arriver à ce sommet indépassable, il a tout de même publié deux-trois petites choses en chemin:
- Rust, vous connaissez? L&amp;rsquo;idée première du système de typage de Rust est la logique dite &amp;ldquo;linéaire&amp;rdquo;, due à Jean-Yves Girard (1987). Haskell, ça vous dit quelque chose? Les systèmes de typage de Haskell mais aussi Scala (et d&amp;rsquo;une certaine manière Java) sont basés sur le &amp;ldquo;système F&amp;rdquo; (ou lambda-calcul de second ordre), dû à&amp;hellip; Jean-Yves Girard (1972).</description>
+Rust, vous connaissez? L&amp;rsquo;idée première du système de typage de Rust est la logique dite &amp;ldquo;linéaire&amp;rdquo;, due à Jean-Yves Girard (1987). Haskell, ça vous dit quelque chose? Les systèmes de typage de Haskell mais aussi Scala (et d&amp;rsquo;une certaine manière Java) sont basés sur le &amp;ldquo;système F&amp;rdquo; (ou lambda-calcul de second ordre), dû à&amp;hellip; Jean-Yves Girard (1972).</description>
     </item>
     
     <item>
@@ -270,7 +291,7 @@ Dans ce talk nous racontons notre expérience sur la construction et la maintena
       
       <guid>https://aeroki.ru/sessions/office-hour-00/</guid>
       <description>Venez poser vos questions aux speakers de manière plus calme et détendue.
- Une histoire de l&amp;rsquo;informatique, du métier à tisser à la machine de Babbage&amp;hellip; Keynote d&amp;rsquo;ouverture (overflow)  </description>
+Une histoire de l&amp;rsquo;informatique, du métier à tisser à la machine de Babbage&amp;hellip; Keynote d&amp;rsquo;ouverture (overflow) </description>
     </item>
     
     <item>
@@ -280,7 +301,7 @@ Dans ce talk nous racontons notre expérience sur la construction et la maintena
       
       <guid>https://aeroki.ru/sessions/office-hour-01/</guid>
       <description>Venez poser vos questions aux speakers de manière plus calme et détendue.
- &amp;ldquo;Numérique et environnement&amp;rdquo; ou &amp;ldquo;On aurait pu sauver les abeilles, on a préféré sortir un nouvel iPhone&amp;rdquo; A Kotlin multiplatform evolution A la découverte de la réalité augmentée avec ARCore The rise of the web  </description>
+&amp;ldquo;Numérique et environnement&amp;rdquo; ou &amp;ldquo;On aurait pu sauver les abeilles, on a préféré sortir un nouvel iPhone&amp;rdquo; A Kotlin multiplatform evolution A la découverte de la réalité augmentée avec ARCore The rise of the web </description>
     </item>
     
     <item>
@@ -290,7 +311,7 @@ Dans ce talk nous racontons notre expérience sur la construction et la maintena
       
       <guid>https://aeroki.ru/sessions/office-hour-02/</guid>
       <description>Venez poser vos questions aux speakers de manière plus calme et détendue.
- L&amp;rsquo;histoire de la découverte d&amp;rsquo;une backdoor signée OnePlus Le burn-out agile Rockin’ in the Angular World Rust as a High-Level Langage  </description>
+L&amp;rsquo;histoire de la découverte d&amp;rsquo;une backdoor signée OnePlus Le burn-out agile Rockin’ in the Angular World Rust as a High-Level Langage </description>
     </item>
     
     <item>
@@ -300,7 +321,7 @@ Dans ce talk nous racontons notre expérience sur la construction et la maintena
       
       <guid>https://aeroki.ru/sessions/office-hour-03/</guid>
       <description>Venez poser vos questions aux speakers de manière plus calme et détendue.
- Allo Paris, ici San Francisco. Et si on codait ensemble avec VS Code? Premiers pas avec un microcontrôleur et Google Cloud IoT Core Quand les ratés des IAs nous renvoient à nos propres biais sociétaux WebGPU: Next-generation 3D Graphics on the Web  </description>
+Allo Paris, ici San Francisco. Et si on codait ensemble avec VS Code? Premiers pas avec un microcontrôleur et Google Cloud IoT Core Quand les ratés des IAs nous renvoient à nos propres biais sociétaux WebGPU: Next-generation 3D Graphics on the Web </description>
     </item>
     
     <item>
@@ -310,7 +331,7 @@ Dans ce talk nous racontons notre expérience sur la construction et la maintena
       
       <guid>https://aeroki.ru/sessions/office-hour-04/</guid>
       <description>Venez poser vos questions aux speakers de manière plus calme et détendue.
- De Java à un exécutable natif : GraalVM et Quarkus changent la donne Le jaillissement de l&amp;rsquo;esprit Live coding musical : vous savez coder ? Devenez compositeur avec WebAudio et WebMIDI ! Rust, WebAssembly, and the future of Serverless  </description>
+De Java à un exécutable natif : GraalVM et Quarkus changent la donne Le jaillissement de l&amp;rsquo;esprit Live coding musical : vous savez coder ? Devenez compositeur avec WebAudio et WebMIDI ! Rust, WebAssembly, and the future of Serverless </description>
     </item>
     
     <item>
@@ -320,7 +341,7 @@ Dans ce talk nous racontons notre expérience sur la construction et la maintena
       
       <guid>https://aeroki.ru/sessions/office-hour-05/</guid>
       <description>Venez poser vos questions aux speakers de manière plus calme et détendue.
- Brace yourself, 🍦Vanilla is coming … back 🕶! Comprendre le rôle du noyau d&amp;rsquo;un système d&amp;rsquo;exploitation en en créant un from scratch Le design de l&amp;rsquo;erreur The Freedom of Static Typing  </description>
+Brace yourself, 🍦Vanilla is coming … back 🕶! Comprendre le rôle du noyau d&amp;rsquo;un système d&amp;rsquo;exploitation en en créant un from scratch Le design de l&amp;rsquo;erreur The Freedom of Static Typing </description>
     </item>
     
     <item>
@@ -330,7 +351,7 @@ Dans ce talk nous racontons notre expérience sur la construction et la maintena
       
       <guid>https://aeroki.ru/sessions/office-hour-06/</guid>
       <description>Venez poser vos questions aux speakers de manière plus calme et détendue.
- Authentication/Authorization Starters Battle DevOps at scale Four Diseases Monitoring OVH: 300k serveurs, 27 DCs une plateforme de métriques   </description>
+Authentication/Authorization Starters Battle DevOps at scale Four Diseases Monitoring OVH: 300k serveurs, 27 DCs une plateforme de métriques </description>
     </item>
     
     <item>
@@ -340,7 +361,7 @@ Dans ce talk nous racontons notre expérience sur la construction et la maintena
       
       <guid>https://aeroki.ru/sessions/office-hour-11/</guid>
       <description>Venez poser vos questions aux speakers de manière plus calme et détendue.
- 3 techniques faciles de manipulation Développeurs en reconversion, développeurs quand même ! Le troll dans ta machine &amp;mdash; Une courte introduction à la pensée de Jean-Yves Girard Machine learning avec des allumettes et des cotillons  </description>
+3 techniques faciles de manipulation Développeurs en reconversion, développeurs quand même ! Le troll dans ta machine &amp;mdash; Une courte introduction à la pensée de Jean-Yves Girard Machine learning avec des allumettes et des cotillons </description>
     </item>
     
     <item>
@@ -350,7 +371,7 @@ Dans ce talk nous racontons notre expérience sur la construction et la maintena
       
       <guid>https://aeroki.ru/sessions/office-hour-12/</guid>
       <description>Venez poser vos questions aux speakers de manière plus calme et détendue.
- 10 est une puissance de 2 « 47 ans : ils n’ont toujours pas remarqué … » Applications de Brainfuck, langage minimaliste mais Turing-complet Un distributeur automatique d&amp;rsquo;argent de poche pour les enfants  </description>
+10 est une puissance de 2 « 47 ans : ils n’ont toujours pas remarqué … » Applications de Brainfuck, langage minimaliste mais Turing-complet Un distributeur automatique d&amp;rsquo;argent de poche pour les enfants </description>
     </item>
     
     <item>
@@ -450,7 +471,7 @@ De nombreuses sociétés publient des &amp;ldquo;tech trends&amp;rdquo; et certa
       
       <guid>https://aeroki.ru/sessions/keynote_open/</guid>
       <description>&amp;hellip;où l&amp;rsquo;on parle aussi de la Pascaline, de table de logarithmes et d&amp;rsquo;éviter les erreurs. Et d&amp;rsquo;en faire.
- Histoires de Mathématiques</description>
+Histoires de Mathématiques</description>
     </item>
     
     <item>
@@ -463,17 +484,6 @@ De nombreuses sociétés publient des &amp;ldquo;tech trends&amp;rdquo; et certa
     </item>
     
     <item>
-      <title>« 47 ans : ils n’ont toujours pas remarqué … »</title>
-      <link>https://aeroki.ru/sessions/_47_ans___ils_nont_toujours_pas_remarque__/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aeroki.ru/sessions/_47_ans___ils_nont_toujours_pas_remarque__/</guid>
-      <description>L’âgisme dans les fonctions IT, et en particulier dans le Développement Soft, est incontournable.
-Les « vieux » n’ont décidément pas la cote, le marché de l&amp;rsquo;emploi des softeux cinquantenaires en est la preuve ! Pourtant, codage et sénioritude semblent loin d&amp;rsquo;être incompatibles.
- Alors quels préjugés peuvent en être la cause ? L’avance rapide de la technologie numérique est-elle incompatible avec le ralentissement biologique ? Les cheveux gris sont-ils un Handicap pour la Sécurité de l’Info ?</description>
-    </item>
-    
-    <item>
       <title>тест</title>
       <link>https://aeroki.ru/sessions/goit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -483,16 +493,6 @@ Les « vieux » n’ont décidément pas la cote, le marché de l&amp;rsquo;empl
 Курс для новеньких в программировании
 Как стать программистом когда программы повсюду. Как выбрать из множества проффесий в IT. Как получить пользу и остатся любознательным програмируя по полдня.
 На эти вопросы и многи вопросы отвечаю с профессиональной точки зрения.</description>
-    </item>
-    
-    <item>
-      <title>⛳️ Votre API web passe-t-elle le contrôle technique ? </title>
-      <link>https://aeroki.ru/sessions/_votre_api_web_passe_t_elle_le_controle_technique__/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aeroki.ru/sessions/_votre_api_web_passe_t_elle_le_controle_technique__/</guid>
-      <description>Nous savons tous développer une API mais avons-nous tous bien intégré les problématiques d&amp;rsquo;environnements et de cycles logiciels multiples ? L&amp;rsquo;opérabilité, la gouvernance, le versioning, la traçabilité, la sécurité — et bien plus encore — de ces API web une fois en production ?
-Durant ce talk, c&amp;rsquo;est plusieurs dizaines de points d&amp;rsquo;attention rarement évoqués que je vous propose d&amp;rsquo;aborder, à la lumière de retours d&amp;rsquo;expériences provenant de chez Uber, Stripe, Facebook, &amp;hellip;</description>
     </item>
     
   </channel>

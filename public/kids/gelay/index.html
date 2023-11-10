@@ -1,117 +1,120 @@
 <!DOCTYPE html>
 <html lang="ru">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
-<style>
-  html { font-size: 22px;}
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:400,500,700"
+      rel="stylesheet"
+    />
+    <style>
+      html {
+        font-size: 22px;
+      }
 
-.card {
-  
-  padding: 1rem 0 1rem 1rem;
-  height: auto;
-}
-.cards {
-  max-width: 1200px;
-  margin: 0 auto;
-  display: grid;
-  grid-gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-}
-@media (min-width: 900px) {
-  .cards { grid-template-columns: repeat(2, 1fr); }
+      .card {
+         
+        padding: 1rem 0 1rem 1rem;
+        height: auto;
+      }
+      .cards {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: grid;
+        grid-gap: 1rem;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      }
+      @media (min-width: 900px) {
+        .cards {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+      body {
+        font-family: "Roboto", cursive;
+        background-color: rgb(255, 255, 255);
+        padding: 1%;
+      }
 
-}
-body {
-  font-family: 'Roboto',cursive;
-  background-color: rgb(255, 255, 255);
-  padding: 1%;
-}
-
-.coupon {
-  border: 6px solid #5e34b5;
-    max-width: 1000px; 
-    border-radius: 16px;
-    margin: 0 auto;
-    box-shadow: #000 2px 3px 0px;
-}
-.main{
-  background: #fff;
-  color:#000;
-}
-.indicator{
-  width:0%;
-  -webkit-transition: width 1s ease-in-out;
-  -moz-transition: width 1s ease-in-out;
-  -o-transition: width 1s ease-in-out;
-  transition: width 1s ease-in-out, opacity 1s linear;
-  background: rgb(94, 52, 181);
-  color: #fff;
-  border-radius: 9px 0px 0px 9px;
-  padding: 5px;
-  float: right;
-  opacity: 0.0;
-}
-#medal .indicator{
-  width: 100%;
-}
-.roundbord{
-  background-color: #fff;
-  border: 1px solid;
-  border-radius: 25px 0 0 25px;
-  border-width: 1px 0 1px 1px;
-  width: min-content;
-  float: right;
-  padding: 3px;
-  text-align: right;
-  color: #000;
-}
-.photo{
-  background-image: url(/static/images/kids/GELAY.jpg);
-  background-repeat: no-repeat;
-  min-height: 420px;
-  border-radius: 16px;
-}
-.photo img {
-  width: 100%;
-  border-radius: 16px;
-  box-shadow: 1px 1px 2px #ccc;
-  box-shadow: 0px 0px 11px -2px #5e34d2;
-}
-.header{
-  background-color: #5e34b5;
-  color: #fff;
-  border-radius: 0 0 16px 0;
-}
-#medal{
- font-size: 60px;
-}
-
-</style>
-</head>
-<body>
-  <div class="cards coupon">
-    <div class="card header">
-       <h3>Личный кабинет </h3>
-    </div>
-    <div class="card">
-       
-       <h3 class="roundbord">
-          <span id="star">⌛</span>⭐️
-       </h3>
-    </div>
-    <div class="card photo">
-      <img  src="/images/kids/GELAY.jpg"  >
-    </div>
-    <div class="card">
-       <p>
-          ARTЁM 
-          <small>aka</small> 
-          GELAY <br>
-          Один из создателей соц. сети Cravee 
-       </p>
-       <ul>
+      .coupon {
+        border: 6px solid #5e34b5;
+        max-width: 1000px;
+        border-radius: 16px;
+        margin: 0 auto;
+        box-shadow: #000 2px 3px 0px;
+      }
+      .main {
+        background: #fff;
+        color: #000;
+      }
+      .indicator {
+        width: 0%;
+        -webkit-transition: width 1s ease-in-out;
+        -moz-transition: width 1s ease-in-out;
+        -o-transition: width 1s ease-in-out;
+        transition: width 1s ease-in-out, opacity 1s linear;
+        background: rgb(94, 52, 181);
+        color: #fff;
+        border-radius: 9px 0px 0px 9px;
+        padding: 5px;
+        float: right;
+        opacity: 0;
+      }
+      #medal .indicator {
+        width: 100%;
+      }
+      .roundbord {
+        background-color: #fff;
+        border: 1px solid;
+        border-radius: 25px 0 0 25px;
+        border-width: 1px 0 1px 1px;
+        width: min-content;
+        float: right;
+        padding: 3px;
+        text-align: right;
+        color: #000;
+      }
+      .photo {
+        background-image: url(/static/images/kids/GELAY.jpg);
+        background-repeat: no-repeat;
+        min-height: 420px;
+        border-radius: 16px;
+      }
+      .photo img {
+        width: 100%;
+        border-radius: 16px;
+        box-shadow: 1px 1px 2px #ccc;
+        box-shadow: 0px 0px 11px -2px #5e34d2;
+      }
+      .header {
+        background-color: #5e34b5;
+        color: #fff;
+        border-radius: 0 0 16px 0;
+      }
+      #medal {
+        font-size: 60px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="cards coupon">
+      <div class="card header">
+        <h3>Личный кабинет</h3>
+      </div>
+      <div class="card">
+        
+        <h3 class="roundbord"><span id="star">⌛</span>⭐️</h3>
+      </div>
+      <div class="card photo">
+        <img src="/images/kids/GELAY.jpg" />
+      </div>
+      <div class="card">
+        <p>
+          ARTЁM
+          <small>aka</small>
+          GELAY <br />
+          Один из создателей соц. сети Cravee
+        </p>
+        <ul>
           
           <li>Родился в 2006</li>
           
@@ -121,86 +124,81 @@ body {
           
           <li>Пригодился в 2021</li>
           
-       </ul>
-    </div>
-    <div class="card">3D -моделирование</div>
-    <div class="card points">
-       <div class="indicator">0%</div>
-    </div>
-    <div class="card">Программирование</div>
-    <div class="card points">
-       <div class="indicator">0%</div>
-    </div>
-    <div class="card">Блогинг</div>
-    <div class="card points">
-       <div class="indicator">0%</div>
-    </div>
-    <div class="card">Электроника</div>
-    <div class="card points">
-       <div class="indicator">0%</div>
-    </div>
-    <div class="card">Английский</div>
-    <div class="card points">
-       <div class="indicator">0%</div>
-    </div>
-    <div class="card" >Танцы</div>
-    <div class="card points">
-       <div class="indicator">0%</div>
-    </div>
-    <div class="card" >Экология</div>
-    <div class="card points">
-       <div class="indicator">0%</div>
-    </div>
-    <div class="card" >Медали</div>
-    <div class="card points" id="medal">
-       <div class="indicator">0%</div>
-    </div>
-    <p>о себе в свободной форме</p>
+        </ul>
+      </div>
+      <div class="card">3D -моделирование</div>
+      <div class="card points">
+        <div class="indicator">0%</div>
+      </div>
+      <div class="card">Программирование</div>
+      <div class="card points">
+        <div class="indicator">0%</div>
+      </div>
+      <div class="card">Блогинг</div>
+      <div class="card points">
+        <div class="indicator">0%</div>
+      </div>
+      <div class="card">Электроника</div>
+      <div class="card points">
+        <div class="indicator">0%</div>
+      </div>
+      <div class="card">Английский</div>
+      <div class="card points">
+        <div class="indicator">0%</div>
+      </div>
+      <div class="card">Танцы</div>
+      <div class="card points">
+        <div class="indicator">0%</div>
+      </div>
+      <div class="card">Экология</div>
+      <div class="card points">
+        <div class="indicator">0%</div>
+      </div>
+      <div class="card">Медали</div>
+      <div class="card points" id="medal">
+        <div class="indicator">0%</div>
+      </div>
+      <p>о себе в свободной форме</p>
 
+    </div>
+    <script>
+      
+      function draw() {
+        indicatorlist = document.getElementsByClassName("points");
+        var nick = "GELAY";
+        var myindex;
+        var myskills = [];
 
- </div>
-<script>
-  
-function draw(){
-  indicatorlist = document.getElementsByClassName('points')
-  var nick = "GELAY"
-  var myindex
-  var myskills =[]
-
-
-skills.forEach(function (string,i) {
-  arr = string.split(',')
-  if  (arr[0] == nick){
-    myindex = i
-    myskills = arr.splice(2,(arr.length-1))
-    console.log(myskills)
-    document.getElementById('star').innerHTML = arr[1]
-  }
-})
-  medal = myskills[myskills.length-1]
-  myskills.forEach(function(element,n) {
-
-    let number = myskills.indexOf(element)
-    console.log(element+"%")
-    indicatorlist[n].firstElementChild.style.width = element+"%"
-    indicatorlist[n].firstElementChild.innerHTML = element+"%"
-    indicatorlist[n].firstElementChild.style.opacity = 1
-
-
-  });
-  document.getElementById('medal').innerHTML = medal
-}
-  url ="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKKTwbQ5iYzjx1YyYfbzK4ORY-IiMlZF1c8rsPps2IHgyg-kAScJV5DlwfMlhXeMpVZRAuru5hMvDf/pub?gid=0&single=true&output=csv"
-  fetch(url)
-  .then((response) => {
-    return response.text();
-  })
-  .then((data) => {
-    skills = data.split(/\r?\n/)
-    console.log(skills)
-    draw();
-  });
-</script>
-</body>
-</html> 
-
+        skills.forEach(function (string, i) {
+          arr = string.split(",");
+          if (arr[0] == nick) {
+            myindex = i;
+            myskills = arr.splice(2, arr.length - 1);
+            console.log(myskills);
+            document.getElementById("star").innerHTML = arr[1];
+          }
+        });
+        medal = myskills[myskills.length - 1];
+        myskills.forEach(function (element, n) {
+          let number = myskills.indexOf(element);
+          console.log(element + "%");
+          indicatorlist[n].firstElementChild.style.width = element + "%";
+          indicatorlist[n].firstElementChild.innerHTML = element + "%";
+          indicatorlist[n].firstElementChild.style.opacity = 1;
+        });
+        document.getElementById("medal").innerHTML = medal;
+      }
+      url =
+        "https://docs.google.com/spreadsheets/d/e/2PACX-1vTKKTwbQ5iYzjx1YyYfbzK4ORY-IiMlZF1c8rsPps2IHgyg-kAScJV5DlwfMlhXeMpVZRAuru5hMvDf/pub?gid=0&single=true&output=csv";
+      fetch(url)
+        .then((response) => {
+          return response.text();
+        })
+        .then((data) => {
+          skills = data.split(/\r?\n/);
+          console.log(skills);
+          draw();
+        });
+    </script>
+  </body>
+</html>
