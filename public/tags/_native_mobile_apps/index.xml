@@ -24,7 +24,7 @@ Au cours de cette session, nous vous proposons de découvrir ARCore, via l’uti
       <guid>https://aeroki.ru/sessions/l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus/</guid>
       <description>Résumé En Novembre 2017, j&amp;rsquo;ai découvert &amp;ldquo;une backdoor&amp;rdquo; dans tous les téléphones de la marque OnePlus. À l&amp;rsquo;aide d&amp;rsquo;une simple ligne de commande, un attaquant ayant un accès physique au téléphone, pouvait devenir root et ainsi obtenir un contrôle total du téléphone de la victime.
 Détails Dans ce talk, j&amp;rsquo;expliquerai le processus qui m&amp;rsquo;a permis de faire cette découverte :
- Extraction du build Récupération des applications dites &amp;ldquo;système&amp;rdquo; Détection de la vulnérabilité dans l&amp;rsquo;application Android &amp;ldquo;EngineeringMode&amp;rdquo; Exploitation de la vulnérabilité  Sujet abordés Lors de la détection et l&amp;rsquo;analyse de cette faille, nous aborderons la philosophie du hacking, comment faire du reverse engineering sur des applications Android et une librairie native.</description>
+Extraction du build Récupération des applications dites &amp;ldquo;système&amp;rdquo; Détection de la vulnérabilité dans l&amp;rsquo;application Android &amp;ldquo;EngineeringMode&amp;rdquo; Exploitation de la vulnérabilité Sujet abordés Lors de la détection et l&amp;rsquo;analyse de cette faille, nous aborderons la philosophie du hacking, comment faire du reverse engineering sur des applications Android et une librairie native.</description>
     </item>
     
   </channel>

@@ -18,6 +18,17 @@ Le streaming illimité à 10 euros par mois c&amp;rsquo;est le pied mais aujourd
     </item>
     
     <item>
+      <title>« 47 ans : ils n’ont toujours pas remarqué … »</title>
+      <link>https://aeroki.ru/sessions/_47_ans___ils_nont_toujours_pas_remarque__/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aeroki.ru/sessions/_47_ans___ils_nont_toujours_pas_remarque__/</guid>
+      <description>L’âgisme dans les fonctions IT, et en particulier dans le Développement Soft, est incontournable.
+Les « vieux » n’ont décidément pas la cote, le marché de l&amp;rsquo;emploi des softeux cinquantenaires en est la preuve ! Pourtant, codage et sénioritude semblent loin d&amp;rsquo;être incompatibles.
+Alors quels préjugés peuvent en être la cause ? L’avance rapide de la technologie numérique est-elle incompatible avec le ralentissement biologique ? Les cheveux gris sont-ils un Handicap pour la Sécurité de l’Info ?</description>
+    </item>
+    
+    <item>
       <title>Applications de Brainfuck, langage minimaliste mais Turing-complet</title>
       <link>https://aeroki.ru/sessions/applications_de_brainfuck__langage_minimaliste_mais_turing_complet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -55,7 +66,7 @@ One approach to get familiar with a system is a long and intense reading the man
       <guid>https://aeroki.ru/sessions/le_troll_dans_ta_machine_____une_courte_introduction_a_la_pensee_de_jean_yves_girard/</guid>
       <description>Jean-Yves Girard, le génial inventeur des indispensables montres à moutarde (1990), est certes un joyeux trublion.
 Mais avant d&amp;rsquo;en arriver à ce sommet indépassable, il a tout de même publié deux-trois petites choses en chemin:
- Rust, vous connaissez? L&amp;rsquo;idée première du système de typage de Rust est la logique dite &amp;ldquo;linéaire&amp;rdquo;, due à Jean-Yves Girard (1987). Haskell, ça vous dit quelque chose? Les systèmes de typage de Haskell mais aussi Scala (et d&amp;rsquo;une certaine manière Java) sont basés sur le &amp;ldquo;système F&amp;rdquo; (ou lambda-calcul de second ordre), dû à&amp;hellip; Jean-Yves Girard (1972).</description>
+Rust, vous connaissez? L&amp;rsquo;idée première du système de typage de Rust est la logique dite &amp;ldquo;linéaire&amp;rdquo;, due à Jean-Yves Girard (1987). Haskell, ça vous dit quelque chose? Les systèmes de typage de Haskell mais aussi Scala (et d&amp;rsquo;une certaine manière Java) sont basés sur le &amp;ldquo;système F&amp;rdquo; (ou lambda-calcul de second ordre), dû à&amp;hellip; Jean-Yves Girard (1972).</description>
     </item>
     
     <item>
@@ -76,17 +87,6 @@ Mais avant d&amp;rsquo;en arriver à ce sommet indépassable, il a tout de même
       <description>Avec mon épouse nous avons commencé à donner de l&amp;rsquo;argent de poche à nos enfants.
 Pour qu&amp;rsquo;ils puissent faire comme les grands (et parce que c&amp;rsquo;est fun aussi :D) j&amp;rsquo;ai conçu un DAAP (Distributeur Automatique d&amp;rsquo;Argent de Poche) qui leur permet, le jour de la distribution de l&amp;rsquo;argent de poche, d&amp;rsquo;insérer leur &amp;ldquo;carte bleue&amp;rdquo;, saisir leur code et de voir la machine s&amp;rsquo;ébranler pour distribuer les pièces.
 Dans ce talk on parlera d&amp;rsquo;Arduino, d&amp;rsquo;impression 3D, de cartes à puce, d&amp;rsquo;électronique et des problèmes que j&amp;rsquo;ai rencontrés et comment j&amp;rsquo;ai pu les résoudre.</description>
-    </item>
-    
-    <item>
-      <title>« 47 ans : ils n’ont toujours pas remarqué … »</title>
-      <link>https://aeroki.ru/sessions/_47_ans___ils_nont_toujours_pas_remarque__/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aeroki.ru/sessions/_47_ans___ils_nont_toujours_pas_remarque__/</guid>
-      <description>L’âgisme dans les fonctions IT, et en particulier dans le Développement Soft, est incontournable.
-Les « vieux » n’ont décidément pas la cote, le marché de l&amp;rsquo;emploi des softeux cinquantenaires en est la preuve ! Pourtant, codage et sénioritude semblent loin d&amp;rsquo;être incompatibles.
- Alors quels préjugés peuvent en être la cause ? L’avance rapide de la technologie numérique est-elle incompatible avec le ralentissement biologique ? Les cheveux gris sont-ils un Handicap pour la Sécurité de l’Info ?</description>
     </item>
     
   </channel>
