@@ -1,6 +1,6 @@
 baseURL = "https://aeroki.ru/"
 languageCode = "ru"
-defaultContentLanguage = "ru" 
+defaultContentLanguage = "ru"
 title = "Точка.Pro Центр иновационного творчества"
 # Theme
 theme = "devfest-theme-hugo"
