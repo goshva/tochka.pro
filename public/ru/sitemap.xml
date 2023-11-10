@@ -62,19 +62,6 @@
     <loc>https://aeroki.ru/kids/timofei/</loc>
     <lastmod>2020-04-09T23:36:31+03:00</lastmod>
   </url><url>
-    <loc>https://aeroki.ru/blog/</loc>
-    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aeroki.ru/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://aeroki.ru/blog/"
-                />
-  </url><url>
     <loc>https://aeroki.ru/blog/cfp/</loc>
     <lastmod>2019-03-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -86,6 +73,19 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://aeroki.ru/blog/cfp/"
+                />
+  </url><url>
+    <loc>https://aeroki.ru/blog/</loc>
+    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aeroki.ru/fr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://aeroki.ru/blog/"
                 />
   </url><url>
     <loc>https://aeroki.ru/blog/get-ready-for-2019/</loc>
@@ -210,8 +210,6 @@
   </url><url>
     <loc>https://aeroki.ru/speakers/vincent_ogloblinsky/</loc>
   </url><url>
-    <loc>https://aeroki.ru/sessions/_numerique_et_environnement__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_/</loc>
-  </url><url>
     <loc>https://aeroki.ru/tags/_big_data___ml___ai/</loc>
   </url><url>
     <loc>https://aeroki.ru/tags/_cloud___infra/</loc>
@@ -227,6 +225,12 @@
     <loc>https://aeroki.ru/tags/_web/</loc>
   </url><url>
     <loc>https://aeroki.ru/tags/_wtf/</loc>
+  </url><url>
+    <loc>https://aeroki.ru/sessions/_numerique_et_environnement__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_/</loc>
+  </url><url>
+    <loc>https://aeroki.ru/sessions/_47_ans___ils_nont_toujours_pas_remarque__/</loc>
+  </url><url>
+    <loc>https://aeroki.ru/sessions/_votre_api_web_passe_t_elle_le_controle_technique__/</loc>
   </url><url>
     <loc>https://aeroki.ru/sessions/a_kotlin_multiplatform_evolution/</loc>
   </url><url>
@@ -280,15 +284,15 @@
   </url><url>
     <loc>https://aeroki.ru/partners/soutien/decasoft/</loc>
   </url><url>
+    <loc>https://aeroki.ru/sessions/__lunch/</loc>
+  </url><url>
+    <loc>https://aeroki.ru/sessions/developpeurs_en_reconversion__developpeurs_quand_meme__/</loc>
+  </url><url>
     <loc>https://aeroki.ru/sessions/devops_at_scale/</loc>
   </url><url>
     <loc>https://aeroki.ru/team/volunteers/didier_plaindoux/</loc>
   </url><url>
     <loc>https://aeroki.ru/partners/communautes/duchess-fr/</loc>
-  </url><url>
-    <loc>https://aeroki.ru/sessions/__lunch/</loc>
-  </url><url>
-    <loc>https://aeroki.ru/sessions/developpeurs_en_reconversion__developpeurs_quand_meme__/</loc>
   </url><url>
     <loc>https://aeroki.ru/partners/gold/elastic/</loc>
   </url><url>
@@ -297,6 +301,8 @@
     <loc>https://aeroki.ru/team/core/emmanuel_vinas/</loc>
   </url><url>
     <loc>https://aeroki.ru/partners/soutien/epitech/</loc>
+  </url><url>
+    <loc>https://aeroki.ru/partners/soutien/etincelle_coworking/</loc>
   </url><url>
     <loc>https://aeroki.ru/sessions/four_diseases/</loc>
   </url><url>
@@ -406,9 +412,9 @@
   </url><url>
     <loc>https://aeroki.ru/sessions/__party/</loc>
   </url><url>
-    <loc>https://aeroki.ru/sessions/__pause/</loc>
-  </url><url>
     <loc>https://aeroki.ru/tags/pause/</loc>
+  </url><url>
+    <loc>https://aeroki.ru/sessions/__pause/</loc>
   </url><url>
     <loc>https://aeroki.ru/sessions/premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core/</loc>
   </url><url>
@@ -425,8 +431,6 @@
     <loc>https://aeroki.ru/partners/communautes/rust-toulouse/</loc>
   </url><url>
     <loc>https://aeroki.ru/team/core/serge_boucher/</loc>
-  </url><url>
-    <loc>https://aeroki.ru/partners/platinium/sii/</loc>
   </url><url>
     <loc>https://aeroki.ru/team/cfp/simon_chemouil/</loc>
   </url><url>
@@ -481,13 +485,7 @@
   </url><url>
     <loc>https://aeroki.ru/partners/soutien/welovedevs_com/</loc>
   </url><url>
-    <loc>https://aeroki.ru/sessions/_47_ans___ils_nont_toujours_pas_remarque__/</loc>
-  </url><url>
-    <loc>https://aeroki.ru/partners/soutien/etincelle_coworking/</loc>
-  </url><url>
     <loc>https://aeroki.ru/partners/platinium/govkis/</loc>
-  </url><url>
-    <loc>https://aeroki.ru/partners/platinium/cenareo/</loc>
   </url><url>
     <loc>https://aeroki.ru/sessions/</loc>
     <xhtml:link
@@ -574,6 +572,10 @@
                 href="https://aeroki.ru/schedule/"
                 />
   </url><url>
+    <loc>https://aeroki.ru/partners/platinium/heard/</loc>
+  </url><url>
+    <loc>https://aeroki.ru/sessions/goit/</loc>
+  </url><url>
     <loc>https://aeroki.ru/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -590,9 +592,5 @@
                 hreflang="ru"
                 href="https://aeroki.ru/faq/"
                 />
-  </url><url>
-    <loc>https://aeroki.ru/sessions/goit/</loc>
-  </url><url>
-    <loc>https://aeroki.ru/sessions/_votre_api_web_passe_t_elle_le_controle_technique__/</loc>
   </url>
 </urlset>

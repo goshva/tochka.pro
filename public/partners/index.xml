@@ -127,6 +127,15 @@ Nos projets peuvent varier de la maintenance d’une boutique en ligne à la ré
     </item>
     
     <item>
+      <title>Étincelle Coworking</title>
+      <link>https://aeroki.ru/partners/soutien/etincelle_coworking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aeroki.ru/partners/soutien/etincelle_coworking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GDG Toulouse</title>
       <link>https://aeroki.ru/partners/communautes/gdg-toulouse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -253,7 +262,7 @@ Aujourd’hui Morning c’est : Plus 150.000 comptes de paiement Morning Plus de
       
       <guid>https://aeroki.ru/partners/gold/neo_soft_groupe/</guid>
       <description>Créé en 2005 à Rennes par son PDG actuel Soïg, le Groupe Néo-Soft est aujourd’hui reconnu pour l’expertise de ses 1 300 consultants et ses 16 implantations. Néo-Soft est une société de Conseil en Informatique et Technologies spécialisée dans 5 domaines :
- Conseil &amp;amp; Gestion de projet Domaine applicatif Infrastructures &amp;amp; Réseaux Cybersécurité grâce notre filiale dédiée Cogital Data Intégrer Néo-Soft c&amp;rsquo;est la possibilité de développer son expertise dans une entreprise innovante et responsable où la proximité est une réalité.</description>
+Conseil &amp;amp; Gestion de projet Domaine applicatif Infrastructures &amp;amp; Réseaux Cybersécurité grâce notre filiale dédiée Cogital Data Intégrer Néo-Soft c&amp;rsquo;est la possibilité de développer son expertise dans une entreprise innovante et responsable où la proximité est une réalité.</description>
     </item>
     
     <item>
@@ -300,15 +309,6 @@ Fruit de 7 ans de R&amp;amp;D, le logiciel d’éco-pilotage SkyBreathe® Fuel E
       
       <guid>https://aeroki.ru/partners/communautes/rust-toulouse/</guid>
       <description>Find Rust Toulouse on meetup</description>
-    </item>
-    
-    <item>
-      <title>SII</title>
-      <link>https://aeroki.ru/partners/platinium/sii/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aeroki.ru/partners/platinium/sii/</guid>
-      <description>After 40 years of partnering with corporations for their engineering needs, the SII Group finds itself at the forefront of innovation and digital transformation. It relies on teams of expert engineers and on methods at the cutting-edge of quality standards for its business centered on engineering consulting (information technology, electronics and telecommunications) and digital services (engineering and network information technology). With nine field offices in France, the Group has built close relationships with local firms and offers a wide spectrum of career opportunities.</description>
     </item>
     
     <item>
@@ -404,15 +404,6 @@ Our seasoned team is experienced in new generation technologies as cloud, micros
     </item>
     
     <item>
-      <title>Étincelle Coworking</title>
-      <link>https://aeroki.ru/partners/soutien/etincelle_coworking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aeroki.ru/partners/soutien/etincelle_coworking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Администрация Кисловоска</title>
       <link>https://aeroki.ru/partners/platinium/govkis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -422,12 +413,12 @@ Our seasoned team is experienced in new generation technologies as cloud, micros
     </item>
     
     <item>
-      <title>Град мастеров</title>
-      <link>https://aeroki.ru/partners/platinium/cenareo/</link>
+      <title>Сердце Города</title>
+      <link>https://aeroki.ru/partners/platinium/heard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aeroki.ru/partners/platinium/cenareo/</guid>
-      <description>Cenareo, previously CityMeo, is a real “French Tech” success story. Located in Labège within the IoT Valley, we develop a best-in-class digital signage CMS (SaaS mode) to create, manage and broadcast content on remote displays in real-time, from any PC, tablet or smartphone. Created by 4 engineers, Cenareo has experienced exponential growth and rapid development since its inception in 2012, posting triple-digit growth and now counting upwards of 30 employees. The company has ambitious targets and a Global outlook.</description>
+      <guid>https://aeroki.ru/partners/platinium/heard/</guid>
+      <description>Серце Города</description>
     </item>
     
   </channel>
